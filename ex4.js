@@ -45,7 +45,7 @@ $(document).ready(function () {
                     left: '0'
                 });
 
-                $('section img').attr('src', 'images/keys.png').css('visibility', 'visible').css('width', '800px');
+                $('section img').attr('src', 'images/keys.png').css('visibility', 'visible')
 
                 $('section nav#close').css('visibility', 'visible');
                 return false;
@@ -71,7 +71,7 @@ $(document).ready(function () {
                         left: '0'
                     });
 
-                    $('section img').attr('src', 'images/phone.png').css('visibility', 'visible').css('width', '500px');
+                    $('section img').attr('src', 'images/phone.png').css('visibility', 'visible')
 
                         $('section nav#close').css('visibility', 'visible');
                         return false;
@@ -97,7 +97,7 @@ $(document).ready(function () {
                         left: '0'
                     });
 
-                    $('section img').attr('src', 'images/pencil.png').css('visibility', 'visible').css('width', '800px');
+                    $('section img').attr('src', 'images/pencil.png').css('visibility', 'visible')
 
                     $('section nav#close').css('visibility', 'visible');
                     return false;
@@ -123,7 +123,7 @@ $(document).ready(function () {
                         left: '0'
                     });
 
-                    $('section img').attr('src', 'images/scissors.png').css('visibility', 'visible').css('width', '700px');
+                    $('section img').attr('src', 'images/scissors.png').css('visibility', 'visible')
 
                     $('section nav#close').css('visibility', 'visible');
                     return false;
@@ -149,7 +149,7 @@ $(document).ready(function () {
                         left: '0'
                     });
 
-                    $('section img').attr('src', 'images/note.png').css('visibility', 'visible').css('width', '500px');
+                    $('section img').attr('src', 'images/note.png').css('visibility', 'visible')
 
                     $('section nav#close').css('visibility', 'visible');
                     return false;
